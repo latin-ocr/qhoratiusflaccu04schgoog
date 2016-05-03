@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiusflaccu04schgoog_0009.png"; bbox 0 0 2800 4512; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 211 653 1069 799">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 211 653 1069 799">
+     <span class='ocr_line' id='line_1_1' title="bbox 211 653 1069 799; baseline -0.013 0"><span class='ocrx_word' id='word_1_1' title='bbox 211 653 269 799; x_wconf 80' lang='lat' dir='ltr'><strong>Q.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 315 653 691 791; x_wconf 80' lang='lat' dir='ltr'>HORATIUS</span> <span class='ocrx_word' id='word_1_3' title='bbox 735 654 1069 792; x_wconf 74' lang='lat' dir='ltr'><strong>FLACCUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 799 897 1174 1076">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 799 897 1174 1076">
+     <span class='ocr_line' id='line_1_2' title="bbox 799 897 1174 1076; baseline 0.059 -20"><span class='ocrx_word' id='word_1_4' title='bbox 799 897 1029 1076; x_wconf 49' lang='lat' dir='ltr'><strong>JJEZ&#39;J</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1168 1065 1174 1076; x_wconf 14' lang='lat' dir='ltr'>x</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 103 1077 1178 1432">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 32 1077 1178 1432">
+     <span class='ocr_line' id='line_1_3' title="bbox 103 1077 1178 1432; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 103 1077 1178 1432; x_wconf 43' lang='lat' dir='ltr'>SATIRWffN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 524 1896 758 1961">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 524 1896 758 1961">
+     <span class='ocr_line' id='line_1_4' title="bbox 524 1896 758 1961; baseline -0.009 0"><span class='ocrx_word' id='word_1_7' title='bbox 524 1896 758 1961; x_wconf 80' lang='lat' dir='ltr'>ERKLAER&#39;P</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 319 2573 954 2684">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 319 2573 954 2684">
+     <span class='ocr_line' id='line_1_5' title="bbox 319 2573 954 2684; baseline -0.005 -13"><span class='ocrx_word' id='word_1_8' title='bbox 319 2587 660 2671; x_wconf 84' lang='lat' dir='ltr'><strong>HERMANN</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 688 2573 954 2684; x_wconf 72' lang='lat' dir='ltr'>SOHUTZ,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 300 3649 972 3852">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 300 3649 972 3852">
+     <span class='ocr_line' id='line_1_6' title="bbox 548 3649 718 3731; baseline 0 -18"><span class='ocrx_word' id='word_1_10' title='bbox 548 3649 718 3731; x_wconf 71' lang='lat' dir='ltr'><strong>BERmN,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 300 3796 972 3852; baseline -0.003 -2"><span class='ocrx_word' id='word_1_11' title='bbox 300 3798 621 3852; x_wconf 80' lang='lat' dir='ltr'><strong>WEIDMANNSGHE</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 648 3796 972 3850; x_wconf 79' lang='lat' dir='ltr'><strong>BUGHHANDLUNG.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 0 0 1404 4512">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 0 0 1404 4512">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 1404 4512; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1404 4512; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
